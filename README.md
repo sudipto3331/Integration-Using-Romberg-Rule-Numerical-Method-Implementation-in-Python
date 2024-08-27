@@ -141,7 +141,7 @@ The script prompts for the following input values:
 3. **Python Version**: This script is compatible with Python 3. Ensure you have Python 3 installed.
 
 ## Author
-Script created by [Your Name].
+Script created by sudipto3331.
 
 ---
 
